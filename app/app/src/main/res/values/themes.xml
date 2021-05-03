@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="Theme.ZoomLauncher" parent="@style/Theme.AppCompat.NoActionBar" />
+
+    <style name="Theme.ZoomLauncher.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.ZoomLauncher.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.ZoomLauncher.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
