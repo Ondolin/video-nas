@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ondolin/video-nas/issues"
   },
-  "homepage": "https://github.com/Ondolin/video-nas#readme"
+  "homepage": "https://github.com/Ondolin/video-nas#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
