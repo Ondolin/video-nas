@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ondolin/video-nas.git"
+  },
+  "author": "Ondolin <developer@ondolin.de>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Ondolin/video-nas/issues"
+  },
+  "homepage": "https://github.com/Ondolin/video-nas#readme"
+}
