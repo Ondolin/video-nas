@@ -1,10 +1,10 @@
 {
-  "name": "backend",
+  "name": "video-nas",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "node.js",
   "scripts": {
-    "run": "node -r esm index.js"
+    "run": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -14,6 +14,9 @@
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/Ondolin/video-nas/issues"
+  },
+  "bin": {
+    "video-nas": "node.js"
   },
   "homepage": "https://github.com/Ondolin/video-nas#readme",
   "dependencies": {
